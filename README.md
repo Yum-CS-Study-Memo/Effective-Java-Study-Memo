@@ -33,9 +33,9 @@
 | | Item 5: 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 | ✅ |
 | | Item 6: 불필요한 객체 생성을 피하라 | ✅ |
 | | Item 7: 다 쓴 객체 참조를 해제하라 | ✅ |
-| | Item 8: finalizer와 cleaner 사용을 피하라 |  ✅ |
-| | Item 9: try-finally보다는 try-with-resources를 사용하라 |  ✅ |
-| 3. 모든 객체의 공통 메서드 | Item 10: equals는 일반 규약을 지켜 재정의하라 |  |
+| | Item 8: finalizer와 cleaner 사용을 피하라 | ✅ |
+| | Item 9: try-finally보다는 try-with-resources를 사용하라 | ✅ |
+| 3. 모든 객체의 공통 메서드 | Item 10: equals는 일반 규약을 지켜 재정의하라 | ✅ |
 
 > 진행하면서 업데이트됩니다.
 
